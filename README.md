@@ -4,6 +4,7 @@
 
 ## Overview
 This project predicts sleep duration based on lifestyle data using various supervised learning techniques, Completed in 2024.
+To view this project in Kaggle: [Sleep Data ML Project](https://www.kaggle.com/code/shawnalarsen/sleep-lifestyle-eda-model-fitting-with-r)
 
 
 ## Project Goals
